@@ -18,3 +18,4 @@ It highlights continuous learning in **life sciences, bioinformatics, and comput
 
 ## 📜 2015
 - [Certificate in Computational Genomics](https://github.com/AnPing-MA/Certificates/blob/main/Certificate%20in%20Computational%20Genomics%20-%20Chen%20Anping.pdf)
+![Group photo in UIUC](https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=90864&s=1140)
